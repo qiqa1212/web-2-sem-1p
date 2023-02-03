@@ -1,10 +1,23 @@
-git status
-git add xxxx.xxx
-git push
-git config user.name "qiqa1212"
-git config user.email "tumishgo@gmail.com"
+git status - показывает статус и что нового появилось
+git add xxxx.xxx - добавить файл
+git push - загрузить 
+git config user.name "qiqa1212" - вход через ник
+git config user.email "tumishgo@gmail.com" - вход через  имейл
 
-git add xxxx.xxx
-git status
-git commit
-git push
+
+git commit -m "commit message" этап перед добавкой с сообщением 
+
+#add new file and com push
+   git status
+   git add xxxx.xxx
+   git status
+   git commit -m "commit message"
+   git push
+   git status
+
+#git upd
+   git status
+   git add test.txt
+   git commit -m "upd"
+   git push
+   git status
