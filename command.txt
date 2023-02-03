@@ -3,3 +3,4 @@ git add xxxx.xxx
 git push
 git config user.name "qiqa1212"
 git config user.email "tumishgo@gmail.com"
+ты лох
