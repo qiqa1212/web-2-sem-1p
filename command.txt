@@ -1,0 +1,4 @@
+git status
+git add xxxx.xxx
+git push
+
