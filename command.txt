@@ -23,6 +23,7 @@ ___________________________
    git status
 
 #git upd
+
    git status
    git add xxxx.xxx
    git commit -m "upd"
