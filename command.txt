@@ -27,3 +27,10 @@ ___________________________
    git commit -m "upd"
    git push
    git status
+
+#git remuve
+   git rm index.html
+   git status
+   git commit -m "rm index.html"
+   git push
+   git status
