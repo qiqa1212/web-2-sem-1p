@@ -6,8 +6,8 @@ ______________________________________________________
 git status - показывает статус и что нового появилось
 git add xxxx.xxx - добавить файл
 git push - загрузить 
-git config user.name "qiqa1212" - вход через ник
-git config user.email "tumishgo@gmail.com" - вход через  имейл
+git config --global user.name "qiqa1212" - вход через ник
+git config --global user.email "tumishgo@gmail.com" - вход через  имейл
 git commit -m "commit message" этап перед добавкой с сообщением 
 git checkout main - 
 І---------------------------------------------------------------------------І
